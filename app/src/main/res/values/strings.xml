@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Test2App</string>
+    <string name="app_user">Test2App</string>
+    <string name="sign_in_with_username">Type your username</string>
+    <string name="sign_in_with_password">Type your password</string>
+    <string name="sign_in_with_phoneNumber">Type your phoneNumber</string>
+    <string name="Login_button">LOGIN</string>
+
+    <string name="Register_with_username">Type your username</string>
+    <string name="Register_with_password">Password</string>
+    <string name="Register_with_phoneNumber">PhoneNumber</string>
+    <string name="Register_with_DeviceSerialNumber">Device Serial Number</string>
+    <string name="Register_button">REGISTER</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_phoneNumber">PhoneNumber</string>
+    <string name="hint_deviceSerialNumber">Device Id</string>
+
+    <string name="VerifyOtp">Verify</string>
+    <string name="otp_verification">OTP</string>
+    <string name="editTextOtp">OTP</string>
+
+    <string name="Permission_button">Permission</string>
+
+
+
+
+</resources>
